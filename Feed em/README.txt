@@ -11,6 +11,11 @@ En el menú de construcciones está todo lo que quisieras construir. Para construi
 construir una farmland para plantarla.
 El barn aumenta la capacidad de almacenamiento de productos
 
+Hay tres tipos de edificios productores, el farm, el eggs factory y el milk factory. Los tres siempre y cuando estén 
+construidos, generan recursos. Pero es después de una cantidad de tiempo que se pueden recoger. Se sabe porque encima
+del edificio se verá un sprite que en este momento es blanco o vacío. Para recolectar su producción se le da click
+izquierdo
+
 Si se desea reubicar un edificio se puede dejar presionado y al abrirse dos botones M de mover. El D es para destruirlo
 
 En el mercado puedes donarle al pueblo para aumentar su nivel de supplies en la store y puedes vender para sobrevivir
