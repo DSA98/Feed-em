@@ -1,0 +1,5 @@
+Profe, en este link está el UML corregido con unas flechas que en vez de agregación eran herencia. Igualmente es sólo 
+por el proceso de aprendizaje y el proceso del proyecto. Califíquenos sobre el link que está en el README igualmente
+(Si abren bien) Gracias!!
+
+https://www.lucidchart.com/publicSegments/view/46c13656-0c9f-473d-b8c3-b0d329d9c4c1/image.png
